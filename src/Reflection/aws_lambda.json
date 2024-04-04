@@ -1,0 +1,12 @@
+{
+  "resync": true,
+  "where_clause": {
+    "owner": "1k56c2c4xlti6",
+    "schema_name": "aws_lambda_shashank_test"
+  },
+  "state": {},
+  "schemas_and_tables": {
+    "schema1": ["t1", "t2"],
+    "schema2": ["t1", "t2"]
+  }
+}
