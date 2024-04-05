@@ -1,0 +1,1 @@
+<person xmlns=""><name>Mukesh</name><age>30</age><addressCurrent><type>Office</type><street>BEllandur</street><city>Bangalore</city><state>KA</state></addressCurrent><addressPermanent><type>Home</type><street>strre1</street><city>Raipur</city><state>CG</state></addressPermanent><contact><email>abc@ema.com</email><phone>+91-2134343</phone></contact></person>
