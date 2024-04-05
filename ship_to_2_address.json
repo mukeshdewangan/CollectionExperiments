@@ -1,0 +1,12 @@
+{
+  "ContactEmail": [
+    {
+      "address": "kevinmatheny@earthlink.net",
+      "useType": "Primary"
+    },
+    {
+      "address": "kevinpmatheny@gmail.com",
+      "useType": "Secondary"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<filter>
+    <and>
+        <equalto>
+            <field>OBJECTTYPE</field>
+            <value>mca_attendee</value>
+        </equalto>
+        <in>
+            <field>ACCESSMODE</field>
+            <value>c</value>
+            <value>d</value>
+            <value>delete</value>
+            <value>delete event</value>
+        </in>
+    </and>
+</filter>

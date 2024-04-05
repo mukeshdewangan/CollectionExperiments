@@ -1,0 +1,23 @@
+{
+  "tables": {
+    "table1": {
+      "columns": {
+        "column1": "PHONE_NUMBER",
+        "column2": "LOCATION"
+      }
+    },
+    "table2": {
+      "columns": {
+        "column3":  "SSN",
+        "column4":  "PASSPORT"
+      }
+    },
+    "table3": {
+      "columns":
+        {
+          "column2":  "EMAIL_ADDRESS",
+          "column5":  "PASSPORT"
+        }
+    }
+  }
+}

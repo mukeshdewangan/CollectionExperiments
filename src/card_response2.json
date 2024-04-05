@@ -1,0 +1,9 @@
+{
+  "three_d_secure": {
+    "authentication_flow": "challenge",
+    "result": "authenticated",
+    "result_reason": null,
+    "version": "2.2.0"
+  },
+  "fingerprint": "ZiUfdaW3fmpHD1mZ"
+}

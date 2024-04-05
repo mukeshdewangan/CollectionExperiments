@@ -1,0 +1,13 @@
+<person>
+    <name>John</name>
+    <age>30</age>
+    <address>
+        <street>Main Street</street>
+        <city>City</city>
+        <state>State</state>
+    </address>
+    <contact>
+        <email>john@example.com</email>
+        <phone>1234567890</phone>
+    </contact>
+</person>
