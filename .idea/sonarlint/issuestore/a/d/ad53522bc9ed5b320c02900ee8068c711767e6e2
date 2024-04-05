@@ -1,0 +1,37 @@
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Žà‡
+w
+java:S1192"\Define a constant instead of duplicating this literal "2016-04-01T03:04:05.123456Z" 3 times.(Šï®÷ùÿÿÿÿ
+t
+java:S1192"YDefine a constant instead of duplicating this literal "2016-04-01T03:04:05.123Z" 3 times.(Êó¤­øÿÿÿÿ
+k
+java:S1192"UDefine a constant instead of duplicating this literal "2016-04-01T03:04:05Z" 4 times.(Éö·ï
+u
+java:S1192 "_Define a constant instead of duplicating this literal "2016-04-01T03:04:05.123456789Z" 3 times.(åºÝ’
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼£‡„
+V
+java:S2259i"@A "NullPointerException" could be thrown; "t1" is nullable here.(îñ±¹
+V	java:S125"<This block of commented-out lines of code should be removed.(éùë·þÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(‹Ý¢ïúÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(À„¦Íøÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(ŒË¶íøÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(™¥Ð
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑú¶øÿÿÿÿ
+E
+java:S1197H"*Move the array designators [] to the type.(Œàø¿ûÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(½ÿ½øÿÿÿÿ
+b	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²€$
+;
+java:S1659Y" Declare "t1" on a separate line.(ÉæÀåúÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(õªºÕþÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(õªºÕþÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ÔŒ±‚
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(îñ±¹
+X
+java:S1144G"=Remove this unused private "ECommInstantDeserializer" method.(îÑú¶øÿÿÿÿ
+G
+java:S1144U"2Remove this unused private "KalpeshWHTest" method.(²€$

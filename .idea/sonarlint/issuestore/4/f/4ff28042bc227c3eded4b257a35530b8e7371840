@@ -1,0 +1,28 @@
+
+r
+java:S1104
+"PMake list a static final constant or non-public and provide accessors if needed.(›ÚÔÿÿÿÿÿ8°ÂöÙó0
+l
+java:S1104+"OMake arr a static final constant or non-public and provide accessors if needed.(‹”„Ì8±ÂöÙó0
+p
+java:S1104,"SMake aDouble a static final constant or non-public and provide accessors if needed.(ÅÌ³È8±ÂöÙó0
+t
+java:S1104."RMake values a static final constant or non-public and provide accessors if needed.(å¯şÿÿÿÿ8±ÂöÙó0
+m
+java:S1104/"QMake type1 a static final constant or non-public and provide accessors if needed.(±ë¡8±ÂöÙó0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àş”8±ÂöÙó0
+y
+java:S3008	"WRename this field "ElementCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙµŠ¦ıÿÿÿÿ8³ÂöÙó0
+r
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8´ÂöÙó0
+C
+java:S2129"!Remove this "Integer" constructor( ÔäÕøÿÿÿÿ8µÂöÙó0
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.( ÔäÕøÿÿÿÿ8µÂöÙó0
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.( ÔäÕøÿÿÿÿ8µÂöÙó0
+]	java:S125"<This block of commented-out lines of code should be removed.(§ƒÍ¬ûÿÿÿÿ8¶ÂöÙó0
+]	java:S125-"<This block of commented-out lines of code should be removed.(Ä†Ğ„üÿÿÿÿ8·ÂöÙó0
+]	java:S1258"<This block of commented-out lines of code should be removed.(èéÙİùÿÿÿÿ8·ÂöÙó0
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8·ÂöÙó0

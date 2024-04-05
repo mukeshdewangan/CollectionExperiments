@@ -1,0 +1,27 @@
+
+^	java:S125™"<This block of commented-out lines of code should be removed.(ôæºàşÿÿÿÿ8İÔïûŒ/
+]	java:S125#"<This block of commented-out lines of code should be removed.(Û”ì¸şÿÿÿÿ8ƒ…£Œ/
+X	java:S125Q"<This block of commented-out lines of code should be removed.(İ­İï8ã·Ò©‹/
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(°ãœ8•‰†/
+T
+java:S1135"2Complete the task associated to this TODO comment.(ÂŸñ½üÿÿÿÿ8ì¸¼’ˆ/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(²Ã°±8šÜ ‰/
+]	java:S125"<This block of commented-out lines of code should be removed.(»çˆùÿÿÿÿ8™›ş/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¡†¤¹ˆ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¡¹Úúÿÿÿÿ
+j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Šòª8¬Ù™‰/
+e
+java:S11443"HRemove this unused private "test_removeLeadingAndTrailingZeroes" method.(‘Šòª8ñÙ÷›/
+T
+java:S1135"2Complete the task associated to this TODO comment.(Ğ¡‹ëşÿÿÿÿ8ì¸¼’ˆ/
+~
+java:S1488L"aImmediately return this expression instead of assigning it to the temporary variable "subString".(«‡š8ëÛ»‰/
+O
+java:S1199p"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ØÆğûŒ/
+Z
+java:S1144""8Remove this unused private "parseStringToDouble" method.(•®Ùèùÿÿÿÿ8™›ş/
+]	java:S125,"<This block of commented-out lines of code should be removed.(‹ÉãÉÿÿÿÿÿ8™›ş/
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(½ŸÒñúÿÿÿÿ8™›ş/
+v
+java:S5843"TSimplify this regular expression to reduce its complexity from 21 to the 20 allowed.(Ñÿÿ¦øÿÿÿÿ8çöº’ˆ/

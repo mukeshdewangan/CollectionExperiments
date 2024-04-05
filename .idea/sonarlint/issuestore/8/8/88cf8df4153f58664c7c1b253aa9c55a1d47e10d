@@ -1,0 +1,42 @@
+
+X	java:S125M"<This block of commented-out lines of code should be removed.(ÎîíÒ8È†ƒ–ş/
+r
+java:S1104\"PMake text a static final constant or non-public and provide accessors if needed.(øò¨ıÿÿÿÿ8±è¼í/
+m	java:S116Z"QRename this field "col_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾œØÿ8±è¼í/
+w	java:S116V"[Rename this field "response_page_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÕÂÉ8±è¼í/
+s
+java:S3008	"VRename this field "QUESTION_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÆ¶è8Ü×í/
+z
+java:S1104^"XMake content_type a static final constant or non-public and provide accessors if needed.(˜«ªŠüÿÿÿÿ8±è¼í/
+
+java:S1488-"bImmediately return this expression instead of assigning it to the temporary variable "sortedList".(ó¨8Šö‹í/
+X	java:S1250"<This block of commented-out lines of code should be removed.(õ¼¶ÿ8Šö‹í/
+x	java:S116^"WRename this field "content_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜«ªŠüÿÿÿÿ8±è¼í/
+v
+java:S1104["TMake other_id a static final constant or non-public and provide accessors if needed.(Ğ‚õ€şÿÿÿÿ8±è¼í/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+r	java:S116Y"QRename this field "row_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑàáÂøÿÿÿÿ8±è¼í/
+Q
+java:S1068W"/Remove this unused "response_id" private field.(úğ„©ÿÿÿÿÿ8ÒåŞí/
+t	java:S116["SRename this field "other_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‚õ€şÿÿÿÿ8±è¼í/
+u
+java:S1104]"XMake download_url a static final constant or non-public and provide accessors if needed.(ø€”ñ8±è¼í/
+x
+java:S3008"VRename this field "RESPONSE_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŒ¢ùüÿÿÿÿ8Ü×í/
+w	java:S116W"VRename this field "response_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úğ„©ÿÿÿÿÿ8±è¼í/
+r	java:S116U"VRename this field "question_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÅÁŸ8±è¼í/
+t
+java:S1104Y"RMake row_id a static final constant or non-public and provide accessors if needed.(ÑàáÂøÿÿÿÿ8±è¼í/
+w
+java:S1104X"UMake choice_id a static final constant or non-public and provide accessors if needed.(² •Ãûÿÿÿÿ8±è¼í/
+x
+java:S3008"[Rename this field "RESPONSE_PAGE_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‰ö¦8Ü×í/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¿¼ùùÿÿÿÿ8Šö‹í/
+s	java:S116]"WRename this field "download_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø€”ñ8±è¼í/
+u	java:S116X"TRename this field "choice_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(² •Ãûÿÿÿÿ8±è¼í/
+o
+java:S1104Z"RMake col_id a static final constant or non-public and provide accessors if needed.(¾œØÿ8±è¼í/
+L
+java:S1068U"/Remove this unused "question_id" private field.(¥ÅÁŸ8ÒåŞí/
+Q
+java:S1068V"4Remove this unused "response_page_id" private field.(ÈÕÂÉ8ÒåŞí/

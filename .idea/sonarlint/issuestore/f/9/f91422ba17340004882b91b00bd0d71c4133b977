@@ -1,0 +1,40 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ÷İÌ8·À¶‘1
+[
+java:S1854">Remove this useless assignment to local variable "tableName2".(Œç‡ı8‘ü·‘1
+]
+java:S1854";Remove this useless assignment to local variable "hashMap".(Æ¢Úúÿÿÿÿ8¤ßº‘1
+]
+java:S1854
+";Remove this useless assignment to local variable "entries".(´Ê†ÿÿÿÿÿ8‘ü·‘1
+V
+java:S1854":Remove this useless assignment to local variable "random".(¼İÅf8‘ü·‘1
+N
+java:S1481
+",Remove this unused "entries" local variable.(´Ê†ÿÿÿÿÿ8‘ü·‘1
+N
+java:S1481",Remove this unused "hashMap" local variable.(Æ¢Úúÿÿÿÿ8¥ßº‘1
+L
+java:S1481"/Remove this unused "tableName2" local variable.(Œç‡ı8’ü·‘1
+G
+java:S1481"+Remove this unused "random" local variable.(¼İÅf8”ü·‘1
+W	java:S125"<This block of commented-out lines of code should be removed.(®“ş[8”ü·‘1
+X	java:S125*"<This block of commented-out lines of code should be removed.(å´ÙÂ8ÀÖÀ‘1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(—Ù©øÿÿÿÿ8ÔÀ¶‘1
+X	java:S125:"<This block of commented-out lines of code should be removed.(Êø¯ã8ÔÀ¶‘1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ÑÊ—€ıÿÿÿÿ8Â»À‘1
+X	java:S125<"<This block of commented-out lines of code should be removed.(¶íŠ£8ÔÀ¶‘1
+V
+java:S1854L"9Remove this useless assignment to local variable "clone".(ä“À»8ÕÀ¶‘1
+G
+java:S1481L"*Remove this unused "clone" local variable.(ä“À»8ÖÀ¶‘1
+V
+java:S1854Z"9Remove this useless assignment to local variable "clone".(•¦å’8óë¿‘1
+G
+java:S1481Z"*Remove this unused "clone" local variable.(•¦å’8óë¿‘1
+W
+java:S1128":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§8¢ÌÁ‘1
+J
+java:S1144@"-Remove this unused private "cleanMap" method.(ìÒŞ¡8˜ü·‘1
+V
+java:S1144E"9Remove this unused private "getMemoryConsumption" method.(¢ğô¤8×À¶‘1

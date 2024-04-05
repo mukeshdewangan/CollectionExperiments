@@ -1,0 +1,19 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º®–ž8œéë¦¯1
+X	java:S125"<This block of commented-out lines of code should be removed.(×îÚö8µéë¦¯1
+V
+java:S1854"9Remove this useless assignment to local variable "coins".(±Úè¶8ÛŠì¦¯1
+T
+java:S1854
+"7Remove this useless assignment to local variable "sum".(¶©û¨8ÛŠì¦¯1
+E
+java:S1481
+"(Remove this unused "sum" local variable.(¶©û¨8ÛŠì¦¯1
+G
+java:S1481"*Remove this unused "coins" local variable.(±Úè¶8ÛŠì¦¯1
+G	java:S106"+Replace this use of System.out by a logger.(€†­ð8¶éë¦¯1
+F	java:S106"+Replace this use of System.out by a logger.(‡Ûd8¿«Ò©¯1
+X	java:S125"<This block of commented-out lines of code should be removed.(»ÙÏ—8ÜŠì¦¯1
+G
+java:S1197""*Move the array designators [] to the type.(ºò‡Œ8·éë¦¯1
+]	java:S125'"<This block of commented-out lines of code should be removed.(Ùˆþÿÿÿÿ8·éë¦¯1

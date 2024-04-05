@@ -1,0 +1,20 @@
+
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(µÉÄ‰
+H
+java:S14816"-Remove this unused "finalAns" local variable.(®ˆœóûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(““©
+W
+java:S18546"<Remove this useless assignment to local variable "finalAns".(®ˆœóûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øü¿¯üÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'refactor.test.PredicateTest'.(Á£á€
+I
+java:S1611!"3Remove the parentheses around the "input" parameter( ñê
+N
+java:S1611"3Remove the parentheses around the "input" parameter(á½õşÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ö³Ã¡
+I
+java:S1611"3Remove the parentheses around the "input" parameter( ñê
+<
+java:S11722"&Remove these unused method parameters.(¯÷Şî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™¶ÁÔ

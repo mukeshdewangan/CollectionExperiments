@@ -1,0 +1,11 @@
+
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(®õÒşÿÿÿÿ
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§òÿşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Â»ÿÿÿÿÿ
+8
+java:S1659""Declare "tail" on a separate line.(•äº
+O
+java:S1161B":Add the "@Override" annotation above this method signature(ğ¨“
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(œ¡â—üÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(±¤ª¹

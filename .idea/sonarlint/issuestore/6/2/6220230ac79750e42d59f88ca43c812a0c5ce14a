@@ -1,0 +1,10 @@
+
+w
+java:S1104	"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ8İá™şŒ0
+p
+java:S1104
+"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü8İá™şŒ0
+z
+java:S1104"XMake phoneNumbers a static final constant or non-public and provide accessors if needed.(Š¹Ì‹ùÿÿÿÿ8Şá™şŒ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒéÊÓ
+p	java:S116"TRename this field "address_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈŒ“å8ÂÏ­”0

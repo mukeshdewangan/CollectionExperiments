@@ -1,0 +1,15 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÒûÈ8‡¯Ã–ë.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áú»¹8¿Å–ë.
+L
+java:S3740"/Provide the parametrized type for this generic.(ÿß­ç8‡¯Ã–ë.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‡¯Ã–ë.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Â»ÿÿÿÿÿ
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8‡¯Ã–ë.
+C
+java:S1481"&Remove this unused "m" local variable.(ÿß­ç8‡¯Ã–ë.
+R
+java:S1854"5Remove this useless assignment to local variable "m".(ÿß­ç8‡¯Ã–ë.

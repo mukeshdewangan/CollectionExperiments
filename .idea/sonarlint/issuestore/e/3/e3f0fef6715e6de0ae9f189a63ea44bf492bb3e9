@@ -1,0 +1,25 @@
+
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(»ÏžÈÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ªÚóÃ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(£—Õü
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ªòÄ
+c	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÉñõ
+Q	java:S125P"<This block of commented-out lines of code should be removed.(¸¡€ƒ
+V	java:S125H"<This block of commented-out lines of code should be removed.(¼Ðªüúÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(‘«„Öùÿÿÿÿ
+`	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Šßð¹ÿÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ÕÝÒí
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Õì™Âøÿÿÿÿ
+Q	java:S125V"<This block of commented-out lines of code should be removed.(îõ­
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÐùÎûÿÿÿÿ
+`	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(Ò¥¶íøÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ïÞ´îüÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ô¦†â
+P	java:S125N"<This block of commented-out lines of code should be removed.(ä°Û
+Z
+java:S1128"?Remove this unused import 'java.util.MissingResourceException'.(å—¡Þþÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(“ÕÜûÿÿÿÿ
+@
+java:S11812"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+[	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(û‰€Ì
+Q	java:S125X"<This block of commented-out lines of code should be removed.(þ¥Þƒ

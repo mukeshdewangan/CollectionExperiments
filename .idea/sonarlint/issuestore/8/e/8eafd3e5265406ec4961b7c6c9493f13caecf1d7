@@ -1,0 +1,7 @@
+
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(¾Óš©ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼£‡„
+U
+java:S1144":Remove this unused private "correctInstantPattern" method.(’ÜÔ™øÿÿÿÿ
+U
+java:S1144D":Remove this unused private "parseInstantWithCheck" method.(ÎÄŞÊøÿÿÿÿ

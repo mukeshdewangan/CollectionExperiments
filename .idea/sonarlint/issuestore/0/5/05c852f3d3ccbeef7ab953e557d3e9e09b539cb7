@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£èÃ
+x
+java:S1104"VMake visitCount a static final constant or non-public and provide accessors if needed.(Ì¼¥¶şÿÿÿÿ8¼µÙ©—/
+]	java:S125"<This block of commented-out lines of code should be removed.(ùúÔñşÿÿÿÿ8É•Ú©—/
+>
+java:S1643;"Use a StringBuilder instead.(¯¬ò¯üÿÿÿÿ8›œë¨—/
+o
+java:S1104"RMake domain a static final constant or non-public and provide accessors if needed.(ÇëŠ½8¼µÙ©—/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(÷±Ç8Ò—Õ©—/
+u
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(æ›€Òşÿÿÿÿ8ÍĞÒ©—/

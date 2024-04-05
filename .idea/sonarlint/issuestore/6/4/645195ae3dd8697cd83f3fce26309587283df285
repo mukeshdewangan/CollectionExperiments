@@ -1,0 +1,12 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8†»‰”ê.
+E
+java:S1481""(Remove this unused "arr" local variable.(ƒ ı8‹”¸éé.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬†Şáıÿÿÿÿ8’Š”ê.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ÔçÌ8©”‡¸ê.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8Š‘†¸ê.
+T
+java:S1854""7Remove this useless assignment to local variable "arr".(ƒ ı8‹”¸éé.
+]	java:S125"<This block of commented-out lines of code should be removed.(Î¢¹åûÿÿÿÿ8Ñˆ“”ê.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦µœ°
+X	java:S125"<This block of commented-out lines of code should be removed.(àÏÚÉ8ºï„”ê.

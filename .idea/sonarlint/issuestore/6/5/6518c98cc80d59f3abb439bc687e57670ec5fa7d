@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã–êàüÿÿÿÿ8İŞ©ò /
+V
+java:S1118":Add a private constructor to hide the implicit public one.(Íô8‘Ä°ò /
+X	java:S125"<This block of commented-out lines of code should be removed.( ·å8óÁß€¡/
+X	java:S125"<This block of commented-out lines of code should be removed.(´ç´»8…ÓÎ¼™1
+o
+java:S1128"RRemove this unused import 'com.fasterxml.jackson.databind.PropertyNamingStrategy'.(ë±©8»›Å¼™1
+m
+java:S1128"KRemove this unused import 'com.fasterxml.jackson.datatype.jdk8.Jdk8Module'.(‘°²øÿÿÿÿ8»›Å¼™1
+q
+java:S1128"ORemove this unused import 'com.fasterxml.jackson.datatype.jsr310.JSR310Module'.(ë¶Óîúÿÿÿÿ8 ³Ú€¡/
+n
+java:S1128"QRemove this unused import 'com.fasterxml.jackson.datatype.jsr310.JavaTimeModule'.(§ ’ÿ8»›Å¼™1

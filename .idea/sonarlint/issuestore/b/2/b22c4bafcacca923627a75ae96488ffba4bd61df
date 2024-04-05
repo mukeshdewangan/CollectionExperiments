@@ -1,0 +1,14 @@
+
+r
+java:S1488J"\Immediately return this expression instead of assigning it to the temporary variable "item".(‡§Õ¸
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”€¢üøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ç’¤™
+V	java:S125!"<This block of commented-out lines of code should be removed.( ÿÖ¶ùÿÿÿÿ
+C
+java:S1172,"(Remove this unused method parameter "k".(ûÒ×óùÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÅâÛÒùÿÿÿÿ
+R
+java:S1854A"<Remove this useless assignment to local variable "localMin".(Žâ»±
+C
+java:S1481A"-Remove this unused "localMin" local variable.(Žâ»±

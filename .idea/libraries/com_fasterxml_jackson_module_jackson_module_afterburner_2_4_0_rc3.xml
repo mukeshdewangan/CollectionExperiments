@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.module:jackson-module-afterburner:2.4.0-rc3" type="repository">
+    <properties maven-id="com.fasterxml.jackson.module:jackson-module-afterburner:2.4.0-rc3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-afterburner-2.4.0-rc3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.4.0-rc3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.4.0-rc3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.4.0-rc3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

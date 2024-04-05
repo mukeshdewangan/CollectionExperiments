@@ -1,0 +1,8 @@
+
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8ò‡ƒöš0
+h
+java:S1128"KRemove this unused import 'com.fasterxml.jackson.dataformat.csv.CsvMapper'.(ï©á«8ñÒ„Üš0
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ë½ÇÆúÿÿÿÿ8ò‡ƒöš0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìƒçþ

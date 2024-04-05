@@ -1,0 +1,20 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ß¯¡
+V	java:S125"<This block of commented-out lines of code should be removed.(û®ù¤ûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àôÑ·úÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ØÙ¶Ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÁ×ú
+e
+java:S1192"ODefine a constant instead of duplicating this literal " is executing " 3 times.(±ß¯¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ß¯¡
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(±ß¯¡
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô¥š
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼åö¶
+C
+java:S1604"(Make this anonymous inner class a lambda(¥Á”ãùÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

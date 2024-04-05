@@ -1,0 +1,27 @@
+
+i
+java:S1104"SMake country a static final constant or non-public and provide accessors if needed.(Ø¬
+m
+java:S1104"WMake fingerprint a static final constant or non-public and provide accessors if needed.(ó†Ã
+r
+java:S1104"WMake secureUsage a static final constant or non-public and provide accessors if needed.(óÒğ§øÿÿÿÿ
+p
+java:S1104"ZMake three_d_secure a static final constant or non-public and provide accessors if needed.(Í”ÉÁ
+n
+java:S1104"YMake authenticated a static final constant or non-public and provide accessors if needed.(›È©&
+u
+java:S1104"_Make authentication_flow a static final constant or non-public and provide accessors if needed.(½ÎÑ“
+h
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(Ìƒõé
+o
+java:S1104"YMake result_reason a static final constant or non-public and provide accessors if needed.(­™£Ÿ
+p
+java:S1104"UMake succeeded a static final constant or non-public and provide accessors if needed.(•İÿ×úÿÿÿÿ
+n
+java:S1104"SMake version a static final constant or non-public and provide accessors if needed.(ñôışÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊªÓøÿÿÿÿ
+n	java:S116"YRename this field "three_d_secure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í”ÉÁ
+s	java:S116"^Rename this field "authentication_flow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÎÑ“
+m	java:S116"XRename this field "result_reason" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­™£Ÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³¸àó

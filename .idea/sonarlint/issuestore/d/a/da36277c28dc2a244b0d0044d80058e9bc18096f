@@ -1,0 +1,15 @@
+
+>
+java:S1170	"!Make this final field static too.(ıçº–8ÀÂÃ€¡/
+[
+java:S1854"9Remove this useless assignment to local variable "event".(ÈÙÙÿÿÿÿÿ8ØŞ¹†¡/
+g
+java:S1854"ERemove this useless assignment to local variable "httpClientOptions".(²‰Å‘üÿÿÿÿ8ØŞ¹†¡/
+L
+java:S1481"*Remove this unused "event" local variable.(ÈÙÙÿÿÿÿÿ8ØŞ¹†¡/
+X
+java:S1481"6Remove this unused "httpClientOptions" local variable.(²‰Å‘üÿÿÿÿ8ØŞ¹†¡/
+]	java:S125"<This block of commented-out lines of code should be removed.(™Éşÿÿÿÿ8ØŞ¹†¡/
+C
+java:S1170"!Make this final field static too.(ó£¥œûÿÿÿÿ8ÀÂÃ€¡/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã–êàüÿÿÿÿ

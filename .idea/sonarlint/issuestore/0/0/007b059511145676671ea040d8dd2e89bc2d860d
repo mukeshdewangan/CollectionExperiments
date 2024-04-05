@@ -1,0 +1,48 @@
+
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(õµ8ŞŠ»°/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(…ˆİ¼8‡¥­ƒ±/
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8§ïÎ°/
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8§ïÎ°/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(ÎÂ›³8‡¥­ƒ±/
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(˜Ü£Û8é¼¯ƒ±/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ğ¤İş8Îƒ¯ƒ±/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ÎÂ›³8Îƒ¯ƒ±/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(Øú¾ß8‡¥­ƒ±/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(úÅÖüÿÿÿÿ8é¼¯ƒ±/
+P
+java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8«Ò£»°/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùë‹Ğ8ÊÆĞö±/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(…ˆİ¼8é¼¯ƒ±/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(õµ8ŞŠ»°/
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ÎÂ›³8é¼¯ƒ±/
+i
+java:S11928"LDefine a constant instead of duplicating this literal "859-03-1702" 4 times.(…ˆİ¼8‡¥­ƒ±/
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(°ÎÚÿÿÿÿÿ8é¼¯ƒ±/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(©Ìª8é¼¯ƒ±/
+W
+java:S1128":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§8«Ò£»°/
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(•öâP8é¼¯ƒ±/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(â°¥áşÿÿÿÿ8é¼¯ƒ±/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­¿ş-
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ôÕêÓıÿÿÿÿ8é¼¯ƒ±/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(àº­8Îƒ¯ƒ±/
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(õµ8ŞŠ»°/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(äåÊÒ8‡¥­ƒ±/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÎÂ›³8é¼¯ƒ±/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ÎË«ø8Îƒ¯ƒ±/
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8šÛ¬ƒ±/
+l
+java:S1192&"ODefine a constant instead of duplicating this literal "+91-8087339090" 8 times.(ÎÂ›³8éƒèœ¬/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¡½Šışÿÿÿÿ8Îƒ¯ƒ±/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(€™åÍşÿÿÿÿ8é¼¯ƒ±/
+t
+java:S11921"WDefine a constant instead of duplicating this literal " in micro seconds for " 4 times.(õµ8ŞŠ»°/
+M
+java:S1172"+Remove this unused method parameter "args".(¿º²Ñùÿÿÿÿ8†ˆÎö±/
+]	java:S125"<This block of commented-out lines of code should be removed.(²¦îœşÿÿÿÿ8¨áÀÏ°/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(õµ8ÿ¯ÿœ¬/
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(å—­Æ8ú·­ƒ±/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿º²Ñùÿÿÿÿ8†ˆÎö±/
+]	java:S125"<This block of commented-out lines of code should be removed.(İ¹çéüÿÿÿÿ8é²Òö±/
