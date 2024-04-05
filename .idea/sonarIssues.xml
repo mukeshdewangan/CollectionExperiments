@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ship_to.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ship_to_primary_address.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/APIResponseFieldChange/JsonViews.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/APIResponseFieldChange/ResponseParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/APIResponseFieldChange/model/Card.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BraintreeDeserializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BraintreeDeserilzer/BraintreeDeserializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BraintreeDeserilzer/ShipTo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ConcurrentExceptionExperiment/CheckJSON.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/EfficientCostHR/EfficientCost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Front/DriverClassForDuplicateHistoryColumn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/InstantPattern/DriverClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Leetcode/ConnectedGroups.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ThreadInterruption/BlockingTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/card_response1.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/card_response2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/Modify-States/States/260769_dan_adp_reset_state.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/Modify-States/States/305538_Brightwheel_Warehouse_ft_stripe.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/SQL-Runner/Queries/adp_workforce_now_freeze_ff.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/.bazelversion">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/core_implementation/src/com/fivetran/core2/DestinationLoader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/core_interfaces/src/com/fivetran/core/Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/database/resources/reset_schema.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/feature_flag/json/resources/MysqlEnableGtidCursor.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/adp_workforce_now/src/com/fivetran/integrations/adp_workforce_now/ADPWorkforceNowService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/braintree/src/com/fivetran/integrations/braintree/BraintreeUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/coupa/src/com/fivetran/integrations/coupa/CoupaApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/coupa/src/com/fivetran/integrations/coupa/CoupaUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/google_ads/src/com/fivetran/integrations/google_ads/GoogleAdsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/hubspot/src/com/fivetran/integrations/hubspot/HubspotService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/lever/src/com/fivetran/integrations/lever/LeverApiUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/lever/src/com/fivetran/integrations/lever/LeverService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/lever/src/com/fivetran/integrations/lever/LeverState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/lever/src/com/fivetran/integrations/lever/LeverUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/medallia/src/com/fivetran/integrations/medallia/MedalliaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/pardot/src/com/fivetran/integrations/pardot/model/ListMembership.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/quickbooks/src/com/fivetran/integrations/quickbooks/QuickbooksUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/recurly/src/com/fivetran/integrations/recurly2/RecurlyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/ringcentral/src/com/fivetran/integrations/ringcentral/RingCentralService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/sage_intacct/src/com/fivetran/integrations/sage_intacct/SageIntacctHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/sage_intacct/src/com/fivetran/integrations/sage_intacct/SageIntacctUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeParallelUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/model/Card.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/model/Source.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/validator/EndpointProceesor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/validator/endpoint_processors/BalanceTransactionProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/charges_parse_bad_data2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/charges_parse_good_data_alternative_source2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/customer_event.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/integration-mapping-document.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/integration_sample_charges.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/integration_sample_source.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/charges-bad-output_core2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/charges-good-output_core2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/charges_connected_account_output_core2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/charges_parse_good_data_alternative_output_core2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/charges_payment_from_charges_output_core2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/connected_accounts_events.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/customer-output_core2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/events_output.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/events_output_2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/output/payment-intent-output_core2.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/payment_intent.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/plan_with_tiers.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/plan_with_tires.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test-resources/plan_without_tiers.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test/com/fivetran/integrations/stripe2/StripeConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test/com/fivetran/integrations/stripe2/StripeIntegrationSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test/com/fivetran/integrations/stripe2/StripeSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/stripe/test/com/fivetran/integrations/stripe2/e2e/StripeE2EBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/webhooks/src/com/fivetran/integrations/webhooks/WebhooksUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/xero/src/com/fivetran/integrations/xero/XeroApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/xero/src/com/fivetran/integrations/xero/XeroUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/yahoo_dsp/src/com/fivetran/integrations/yahoo_dsp/YahooDspService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/zendesk/src/com/fivetran/integrations/zendesk/ZendeskApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/zendesk/src/com/fivetran/integrations/zendesk/ZendeskService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/integrations/zendesk/test/com/fivetran/integrations/zendesk/ZendeskServiceSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Fivetran/engineering/logger/src/com/fivetran/logger/FivetranLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/BUILD">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/core_interfaces/src/com/fivetran/core/Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/database/resources/reset_data.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/database/resources/reset_schema.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/database/src/com/fivetran/database/StandardConfigRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/database/src/com/fivetran/database/security/model/ResourceMembership.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/donkey/test/com/fivetran/donkey/decoupled/BridgeDestinationSegmentIntegrationSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/feature_flag/json/resources/RecurlyRescheduleIncompleteInitialSync.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/feature_flag/json/resources/StripeStateResetEventEndpoint.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/feature_flag/json/resources/StripeStateResetProblematicEndpoints.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/forms/src/com/fivetran/forms/Form.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/adp_workforce_now/src/com/fivetran/integrations/adp_workforce_now/ADPWorkforceNowState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/asana/src/com/fivetran/integrations/asana/AsanaUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/aws_cloudtrail/test/com/fivetran/integrations/aws_cloudtrail/AwsCloudTrailApiSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/coupa/src/com/fivetran/integrations/coupa/CoupaApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/facebook/src/com/fivetran/integrations/facebook/ads/FacebookAdsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/google_ads/test/com/fivetran/integrations/google_ads/GoogleAdsUpdaterSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/greenhouse/src/com/fivetran/integrations/greenhouse/GreenhouseApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/greenhouse/src/com/fivetran/integrations/greenhouse/GreenhouseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/hubspot/src/com/fivetran/integrations/hubspot/HubspotUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/lightspeed_retail/src/com/fivetran/integrations/lightspeed_retail/LightspeedRetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/lightspeed_retail/src/com/fivetran/integrations/lightspeed_retail/model/ShipTo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/lightspeed_retail/test/com/fivetran/integrations/lightspeed_retail/LightspeedRetailUpdaterSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/netsuite/src/com/fivetran/integrations/netsuite/newstrategy/DimensionTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/oracle/src/com/fivetran/integrations/oracle/tasks/DBMSLogminerException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/postgres2020/BUILD">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/recurly/src/com/fivetran/integrations/recurly2/RecurlyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/recurly/src/com/fivetran/integrations/recurly2/RecurlyUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/recurly/test/com/fivetran/integrations/recurly2/RecurlyUpdaterSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/sage_intacct/test/com/fivetran/integrations/sage_intacct/e2e/SageIntacctE2EBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/BUILD">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeMultiThreadHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeParallelUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeUpdater2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/StripeUpdaterApiEventSymmetricSyncHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/model/Card.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/util/StripeConstantsLibrary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/util/StripeUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/src/com/fivetran/integrations/stripe2/validator/SupportedEndpoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/test/com/fivetran/integrations/stripe2/StripeConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/stripe/test/com/fivetran/integrations/stripe2/StripeSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/workday_hcm/src/com/fivetran/integrations/workday_hcm/WorkdayHcmUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/workday_hcm/src/com/fivetran/integrations/workday_hcm/model/JobClassification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/workday_hcm/test/com/fivetran/integrations/workday_hcm/WorkdayHcmUpdaterSpec.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/xero/src/com/fivetran/integrations/xero/XeroCredentials.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/xero/src/com/fivetran/integrations/xero/XeroSetupForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/integrations/xero/src/com/fivetran/integrations/xero/XeroUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PRReview/engineering/services/resync/src/com/fivetran/services/CaptureResync.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

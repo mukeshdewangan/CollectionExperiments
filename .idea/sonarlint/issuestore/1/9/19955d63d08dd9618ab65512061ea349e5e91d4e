@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥´îÿÿÿÿÿÿ8Éğ‡1
+T
+java:S2589."7Remove this expression which always evaluates to "true"(®ø8ÒÑñ‡1
+f
+java:S25833"DChange this condition so that it does not always evaluate to "false"(Â©¶şüÿÿÿÿ8ÒÑñ‡1
+]	java:S125	"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8Îğ‡1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´½×÷8´®ñ‡1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(õæĞ´8´®ñ‡1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ê’ûÀ8´®ñ‡1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ß¢ßüÿÿÿÿ8µ®ñ‡1
+—
+java:S2159."zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(®ø8µ®ñ‡1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(óÂ£ 8µ®ñ‡1
+œ
+java:S21593"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Â©¶şüÿÿÿÿ8µ®ñ‡1
+T	java:S1064"9Replace this use of System.out or System.err by a logger.(Ê÷ï8µ®ñ‡1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÿ»±’8µ®ñ‡1
+P
+java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8µ®ñ‡1

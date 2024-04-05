@@ -1,0 +1,30 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óéÂ¨şÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "fl".(â³Úÿÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "target".(è”¢öÿÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "arr".(¸Ê±ûüÿÿÿÿ
+C
+java:S1481"(Remove this unused "arr" local variable.(¸Ê±ûüÿÿÿÿ
+F
+java:S1481"+Remove this unused "target" local variable.(è”¢öÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ßğıÿÿÿÿ
+B
+java:S1481"'Remove this unused "fl" local variable.(â³Úÿÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(‰ÕÔ¯ÿÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(¶†‰ûÿÿÿÿ8âÄöóÙ0
+X	java:S125""<This block of commented-out lines of code should be removed.( ›ô8ïõóÙ0
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ù›½Ò
+]	java:S125*"<This block of commented-out lines of code should be removed.(½öè÷şÿÿÿÿ8ãïöóÙ0
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¾·Áƒûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(…Ö¥Ïøÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(•Ø¾”øÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(·ÑÃ 
+<
+java:S1659K"!Declare "max" on a separate line.(´†ªáûÿÿÿÿ
+=
+java:S1659Y""Declare "high" on a separate line.(Ä’¢çıÿÿÿÿ
+L
+java:S1144J"6Remove this unused private "searchCompetitive" method.(ÈÃû€

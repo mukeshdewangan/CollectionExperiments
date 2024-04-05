@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÔÛÌùÿÿÿÿ
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8§¬©/
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8ã¥£­©/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8§¬©/
+T	java:S106X"9Replace this use of System.out or System.err by a logger.(­Ú›h8å†äÒª/
+r	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈØÔ«üÿÿÿÿ8·ÈêÒª/
+m	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àû®Â8ëâèÒª/
+o
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¤„¶8úÜ¼­©/
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8§¬©/
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÁüúÿÿÿÿ8å†äÒª/
+_
+java:S1854V"=Remove this useless assignment to local variable "ANSI_CYAN".(ÈØÔ«üÿÿÿÿ8¢ÿëÒª/
+P
+java:S1481V".Remove this unused "ANSI_CYAN" local variable.(ÈØÔ«üÿÿÿÿ8¢ÿëÒª/

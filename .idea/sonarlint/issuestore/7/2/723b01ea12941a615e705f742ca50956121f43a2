@@ -1,0 +1,25 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(¸Ïï†
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ƒô¢ôùÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(Ó¾ä­üÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¸ªÑııÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ë¯¡Ê
+C
+java:S1604"(Make this anonymous inner class a lambda(¥Á”ãùÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(¥­ˆ¯üÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(Ÿ°‘Ò
+’
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(“šÔøÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ØÙ¶Ú
+P
+java:S1118":Add a private constructor to hide the implicit public one.(•Õ·Ò
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“šÔøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ˜ëèúÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ªÑııÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(é ªÙûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¥­ˆ¯üÿÿÿÿ

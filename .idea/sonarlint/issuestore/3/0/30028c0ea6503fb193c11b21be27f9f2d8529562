@@ -1,0 +1,44 @@
+
+r
+java:S1104<"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ8ŸàëØ…1
+t
+java:S1104="RMake street a static final constant or non-public and provide accessors if needed.(ØÚ©ªÿÿÿÿÿ8ŸàëØ…1
+r
+java:S1104>"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ8ŸàëØ…1
+n
+java:S1104?"QMake state a static final constant or non-public and provide accessors if needed.(…‰¶ò8ŸàëØ…1
+r
+java:S1104K"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ8ŸàëØ…1
+t
+java:S1104L"RMake street a static final constant or non-public and provide accessors if needed.(ØÚ©ªÿÿÿÿÿ8ŸàëØ…1
+r
+java:S1104M"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ8ŸàëØ…1
+n
+java:S1104N"QMake state a static final constant or non-public and provide accessors if needed.(…‰¶ò8ŸàëØ…1
+s
+java:S1104Y"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ8ŸàëØ…1
+n
+java:S1104Z"QMake phone a static final constant or non-public and provide accessors if needed.(«ç”¤8ŸàëØ…1
+m
+java:S1104g"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ŸàëØ…1
+l
+java:S1104h"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8ŸàëØ…1
+p
+java:S1104q"SMake contact a static final constant or non-public and provide accessors if needed.(Á‹‘8ŸàëØ…1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒéÊÓ8 àëØ…1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ââ—é8©àëØ…1
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8©àëØ…1
+X	java:S125&"<This block of commented-out lines of code should be removed.(ÒÙàç8ªàëØ…1
+L	java:S1063"+Replace this use of System.out by a logger.(è¾šÏÿÿÿÿÿ8«àëØ…1
+‚
+java:S1128"eRemove this unused import 'com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper'.(ò‘¹í8ĞÈğØ…1
+b
+java:S1128"ERemove this unused import 'javax.xml.bind.annotation.XmlRootElement'.(Òóå†8ĞÈğØ…1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ĞÈğØ…1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8ĞÈğØ…1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÑÈğØ…1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÑÈğØ…1

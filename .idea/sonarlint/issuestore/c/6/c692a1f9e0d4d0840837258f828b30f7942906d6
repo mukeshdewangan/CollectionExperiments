@@ -1,0 +1,31 @@
+
+[	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Œ» È
+[	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(‹¬¶›
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ÆŒ§
+[	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(‡ô‘
+v
+java:S1488;"[Immediately return this expression instead of assigning it to the temporary variable "res".(şÜî²ùÿÿÿÿ
+S
+java:S1163H"=Refactor this code to not throw exceptions in finally blocks.(ÆŒ§
+J
+java:S1143H"4Remove this throw statement from this finally block.(ÆŒ§
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Â»ÿÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "result".(¿Öó³øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¤‘á€
+F
+java:S1481"+Remove this unused "result" local variable.(¿Öó³øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(œ˜Í€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ùàèü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì‹ ÷
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºîŸÇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ®¼úÿÿÿÿ
+7
+java:S1659'"!Declare "end" on a separate line.(Ôå‚Ì
+V	java:S125*"<This block of commented-out lines of code should be removed.(â•ïûùÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÄÎ²ûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(šŸíÿÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ÿ“Ò±
+Q	java:S125:"<This block of commented-out lines of code should be removed.(÷£¼Ø
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÖÀò†
+P	java:S125G"<This block of commented-out lines of code should be removed.(á¿À-

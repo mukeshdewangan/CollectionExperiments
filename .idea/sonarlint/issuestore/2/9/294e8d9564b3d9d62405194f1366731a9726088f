@@ -1,0 +1,9 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "k".(÷á‚†ùÿÿÿÿ8æ’ñ½›/
+J
+java:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ8ïÊ¥½›/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+H
+java:S1481"&Remove this unused "k" local variable.(÷á‚†ùÿÿÿÿ8æ’ñ½›/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÏƒÆ8Ï‘…¾›/

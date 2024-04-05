@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦µœ°
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óš€ÿÿÿÿÿ8Ïš§ã/
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Mukesh" 3 times.(•û·ìûÿÿÿÿ8Ÿö¦ã/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È“¼Á8¦ŠÀ»/
+B
+java:S2129	" Remove this "String" constructor(ØßÅ•ûÿÿÿÿ8Ş¥”À/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ò–² ûÿÿÿÿ8à¦“À/

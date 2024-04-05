@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HackerRankQETest/HackerRankQETest.iml" filepath="$PROJECT_DIR$/HackerRankQETest/HackerRankQETest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading.iml" filepath="$PROJECT_DIR$/Threading.iml" />
+    </modules>
+  </component>
+</project>

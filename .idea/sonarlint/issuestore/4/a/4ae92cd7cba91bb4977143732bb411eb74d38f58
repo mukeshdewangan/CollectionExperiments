@@ -1,0 +1,12 @@
+
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ö‹ê†8½Üßï²/
+X	java:S125"<This block of commented-out lines of code should be removed.(Îí¯˜8‰™ñŠº/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´Òÿ˜øÿÿÿÿ8‰™ñŠº/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(˜´ï·ýÿÿÿÿ8½Üßï²/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(±Èúº8½Üßï²/
+f
+java:S4143"DVerify this is the key that was intended; it was already set before.(•šÜøÿÿÿÿ8î¦áƒº/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œì‘
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ø³õëýÿÿÿÿ8½Üßï²/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(öä­Üþÿÿÿÿ8½Üßï²/
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Â‹µüþÿÿÿÿ8½Üßï²/

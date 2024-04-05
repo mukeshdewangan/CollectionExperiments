@@ -1,0 +1,19 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8ìÙ£î›/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(Ö‰´«8ìÙ£î›/
+{
+java:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "result".(ñ±ª8úå¿°›/
+X	java:S125E"<This block of commented-out lines of code should be removed.(ş¿»8ìÙ£î›/
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì•á“şÿÿÿÿ8îğé°›/
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¯ô‡±›/
+]	java:S125!"<This block of commented-out lines of code should be removed.(º¹„Şüÿÿÿÿ8…ÜÍÙ›/
+J
+java:S11442"-Remove this unused private "maxScore" method.(È¹¿æ8†°¬Ù›/
+¤
+java:S2681"†This line will not be executed conditionally; only the first line of this 8-line block will be. The rest will execute unconditionally.(ÑÖá«8íœú°›/
+]	java:S125"<This block of commented-out lines of code should be removed.(ü°…úÿÿÿÿ8íœú°›/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÉ×‹øÿÿÿÿ8Šó¬Ç›/
+]	java:S125
+"<This block of commented-out lines of code should be removed.(â´á³şÿÿÿÿ8‰ø°›/
+]	java:S125 "<This block of commented-out lines of code should be removed.(İşŒ°şÿÿÿÿ8…ÜÍÙ›/

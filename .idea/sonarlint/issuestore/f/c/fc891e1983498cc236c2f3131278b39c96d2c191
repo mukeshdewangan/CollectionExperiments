@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(í¹­¿8¦ ®·/
+]	java:S125R"<This block of commented-out lines of code should be removed.(”¢·Ñşÿÿÿÿ8ÏàË®·/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ßù¹8ßÚÑ®·/
+X	java:S125,"<This block of commented-out lines of code should be removed.(ÃÉ8åñÍ®·/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8¤Áß°·/
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ÿ¬ÕÏ8«éœ®·/
+]	java:S125T"<This block of commented-out lines of code should be removed.(Ÿ±şóşÿÿÿÿ8ıŠÌ®·/
+X	java:S125"<This block of commented-out lines of code should be removed.(øìñÆ8µ¿¹Ÿ·/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øü¿¯üÿÿÿÿ

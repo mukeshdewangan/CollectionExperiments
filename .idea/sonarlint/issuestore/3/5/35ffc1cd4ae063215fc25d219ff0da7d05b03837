@@ -1,0 +1,30 @@
+
+H
+java:S1199$"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+V	java:S125"<This block of commented-out lines of code should be removed.(£ğŸûÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ë‡½
+V	java:S125""<This block of commented-out lines of code should be removed.(ìéà®şÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+o
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(š…ª
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+F
+java:S1172;"+Remove this unused method parameter "args".(À»Áùÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ĞçŒë
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ĞçŒë
+L
+java:S1068L"1Remove this unused "lastCheckedAt" private field.(’Ø™Ïşÿÿÿÿ
+I
+java:S1068N".Remove this unused "softDelete" private field.(Á­§¥üÿÿÿÿ
+K
+java:S1068O"5Remove this unused "totalNumOfRecords" private field.(ƒ‘®ø
+L
+java:S1068d"1Remove this unused "lastCheckedAt" private field.(’Ø™Ïşÿÿÿÿ
+A
+java:S1068e"+Remove this unused "buffers" private field.(úÀµË
+I
+java:S1068f".Remove this unused "softDelete" private field.(À‚ºŞùÿÿÿÿ
+K
+java:S1068g"5Remove this unused "totalNumOfRecords" private field.(ƒ‘®ø

@@ -1,0 +1,41 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ú“Üİ8¬ÆÑÎè.
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(ÕÚíûÿÿÿÿ8æİéÈó.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¼İìÃô.
+X	java:S125K"<This block of commented-out lines of code should be removed.(Àğ©¥8åÜÿìõ.
+W
+java:S1854€"9Remove this useless assignment to local variable "arr23".(£™¸8í°ÿ¿ô.
+[
+java:S1854"9Remove this useless assignment to local variable "arr12".(ı‘Òøÿÿÿÿ8í°ÿ¿ô.
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8©Ê‡÷.
+f
+java:S2175“"CA "Map<EnumSet, Long>" cannot contain a "List" in a "EnumSet" type.(ÕÚíûÿÿÿÿ8¨èİ¿ô.
+X	java:S125t"<This block of commented-out lines of code should be removed.(ä8¾²Ğè.
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(ÙÄ²®8úµäÇó.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Š¾Ê
+X	java:S125^"<This block of commented-out lines of code should be removed.(ôŸÌ×8çŒç¿ô.
+f
+java:S2175‘"CA "Map<EnumSet, Long>" cannot contain a "List" in a "EnumSet" type.(èŸç†øÿÿÿÿ8¨èİ¿ô.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(²Âô¨ıÿÿÿÿ8îĞÎè.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8»…Äõ.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(ææ«ÿÿÿÿÿ8•¬ÚÇó.
+L
+java:S1481"*Remove this unused "arr12" local variable.(ı‘Òøÿÿÿÿ8í°ÿ¿ô.
+X	java:S125H"<This block of commented-out lines of code should be removed.(«±à™8Ô²ô“õ.
+o	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûíäæøÿÿÿÿ8àùÌÎè.
+X	java:S125M"<This block of commented-out lines of code should be removed.(§˜ª‚8½±Çõ.
+b	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Öş©8ñ‘Æõ.
+<
+java:S1640"Convert this Map to an EnumMap.(Õ¼Û8Ì”–ÿç.
+f
+java:S2175’"CA "Map<EnumSet, Long>" cannot contain a "List" in a "EnumSet" type.(ææ«ÿÿÿÿÿ8¨èİ¿ô.
+H
+java:S1481€"*Remove this unused "arr23" local variable.(£™¸8í°ÿ¿ô.
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(·Ùİƒ8ºŠäø.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ÍÜËşÿÿÿÿ8¨¹÷Ãô.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(èŸç†øÿÿÿÿ8„ÃÔÇó.
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(•£ıÜùÿÿÿÿ8´—œ€è.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ÜÄˆø8–ğÜÔè.
+~
+java:S1104"aMake operationsAllowedTags a static final constant or non-public and provide accessors if needed.(Õ¼Û8„ÃÔÇó.

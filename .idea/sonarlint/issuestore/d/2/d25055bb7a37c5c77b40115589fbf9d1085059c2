@@ -1,0 +1,19 @@
+
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(‡’÷©şÿÿÿÿ8ûš‡Ó¢/
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(Ó‰íœûÿÿÿÿ8ûš‡Ó¢/
+T	java:S106l"9Replace this use of System.out or System.err by a logger.(ü„ê!8½›ÇÓ¢/
+T	java:S106j"9Replace this use of System.out or System.err by a logger.(ü„ê!8Ãê¢Ó¢/
+T	java:S106U"9Replace this use of System.out or System.err by a logger.(É¯¸i8ûš‡Ó¢/
+T	java:S106a"9Replace this use of System.out or System.err by a logger.(ü„ê!8àú‰Ó¢/
+?
+java:S1659"""Declare "high" on a separate line.(Ù‹Áà8¶Ä‰¼¢/
+T	java:S106f"9Replace this use of System.out or System.err by a logger.(ü„ê!8Ì™¢Ó¢/
+C
+java:S1110%"!Remove these useless parentheses.(ÙÛ¶÷ÿÿÿÿÿ8¡¨¼¢/
+T	java:S106h"9Replace this use of System.out or System.err by a logger.(ü„ê!8Ãê¢Ó¢/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(Ó‰íœûÿÿÿÿ8ûš‡Ó¢/
+T	java:S106c"9Replace this use of System.out or System.err by a logger.(ü„ê!8²¶Ó¢/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(‡’÷©şÿÿÿÿ8ûš‡Ó¢/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+X
+java:S1144G";Remove this unused private "testGetEqualsOrGreater" method.(ÆËÇö8ûš‡Ó¢/

@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8èëî×/
+X	java:S125"<This block of commented-out lines of code should be removed.(˜Ä8òØˆÛ/
+N
+java:S1172",Remove this unused method parameter "array".(ˆĞÔøÿÿÿÿ8òØˆÛ/
+[
+java:S3400"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8òØˆÛ/
+V
+java:S3400	"9Remove this method and declare a constant for this value.(”·³›8£‰Û/
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8«Áò×/
+C
+java:S1172"&Remove these unused method parameters.(ˆ˜ü8£‰Û/

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="google.re2j" type="repository">
+    <properties maven-id="com.google.re2j:re2j:1.7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/re2j/re2j/1.7/re2j-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,35 @@
+
+v
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(À÷Ëƒ8ÂßÂ¨î0
+Q
+java:S1066W"/Merge this if statement with the enclosing one.(æÒ¨âøÿÿÿÿ8ÃßÂ¨î0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙéƒıÿÿÿÿ8ÃßÂ¨î0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä“×Ëúÿÿÿÿ8ÄßÂ¨î0
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ÖÔ’È8ÎßÂ¨î0
+Z
+java:S1854"8Remove this useless assignment to local variable "data".(ÑÓıøÿÿÿÿ8ÏßÂ¨î0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×Ùè”øÿÿÿÿ8ÏßÂ¨î0
+K
+java:S1481")Remove this unused "data" local variable.(ÑÓıøÿÿÿÿ8ĞßÂ¨î0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ĞßÂ¨î0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÁÍš¹üÿÿÿÿ8ĞßÂ¨î0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¬Èñ³8ĞßÂ¨î0
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒï§8ĞßÂ¨î0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÑßÂ¨î0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8ÑßÂ¨î0
+]	java:S125E"<This block of commented-out lines of code should be removed.(Ì›µ¢ûÿÿÿÿ8ÖßÂ¨î0
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(³ËËûÿÿÿÿ8ÖßÂ¨î0
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(ç‹¡€8ÖßÂ¨î0
+X	java:S125\"<This block of commented-out lines of code should be removed.(ış¥•8ÖßÂ¨î0
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8×ßÂ¨î0
+e
+java:S1854w"CRemove this useless assignment to local variable "convertedString".(Ü¬šƒùÿÿÿÿ8×ßÂ¨î0
+T	java:S106t"9Replace this use of System.out or System.err by a logger.(ƒÚáB8×ßÂ¨î0
+V
+java:S1481w"4Remove this unused "convertedString" local variable.(Ü¬šƒùÿÿÿÿ8×ßÂ¨î0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ì‘øó8ØßÂ¨î0
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(€Óè×ÿÿÿÿÿ8ØßÂ¨î0
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(€Óè×ÿÿÿÿÿ8ØßÂ¨î0
+l
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.core.JsonParseException'.(¸Ôéÿıÿÿÿÿ8ØßÂ¨î0

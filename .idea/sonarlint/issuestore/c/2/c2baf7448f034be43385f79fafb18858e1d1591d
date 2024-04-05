@@ -1,0 +1,21 @@
+
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8íö§ì¦/
+{
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åôëüÿÿÿÿ8ÑÓÈì¦/
+6
+java:S2178;"Correct this "&" to "&&".(» ª¬8íö§ì¦/
+X	java:S125"<This block of commented-out lines of code should be removed.(®Ø·Û8íö§ì¦/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ8íö§ì¦/
+r	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÇÚÑıÿÿÿÿ8™Éì¦/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ8íö§ì¦/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êµ²Çüÿÿÿÿ8ÀöÀê¦/
+U
+java:S1144N"3Remove this unused private "teamFormation2" method.(•ÇÚÑıÿÿÿÿ8ÑÓÈì¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡‚Ù¬8Œ­¦ì¦/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(êµ²Çüÿÿÿÿ8àÉŠì¦/
+6
+java:S2178B"Correct this "&" to "&&".(§ñÁ©8íö§ì¦/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+{
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ç÷Ùÿÿÿÿÿ8ÑÓÈì¦/

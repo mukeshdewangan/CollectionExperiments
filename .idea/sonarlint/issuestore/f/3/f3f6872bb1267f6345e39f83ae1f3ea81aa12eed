@@ -1,0 +1,8 @@
+
+s
+java:S1104"VMake primaryKey a static final constant or non-public and provide accessors if needed.(¼Ôª8éÖ„ÃÒ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œì‘
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ü˜‚ÃÒ/
+q
+java:S1104"TMake dataType a static final constant or non-public and provide accessors if needed.(İˆß¾8éÖ„ÃÒ/

@@ -1,0 +1,12 @@
+
+n
+java:S1104	"XMake contactEmail a static final constant or non-public and provide accessors if needed.(­˜é
+p
+java:S1104
+"ZMake secondaryEmail a static final constant or non-public and provide accessors if needed.(Š ø
+i
+java:S1104"SMake useType a static final constant or non-public and provide accessors if needed.(Íáû•
+n
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºøÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(´ñıöüÿÿÿÿ8“«İÖ±0

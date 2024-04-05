@@ -1,0 +1,6 @@
+
+s
+java:S1104"VMake streetName a static final constant or non-public and provide accessors if needed.(£Ö½à8ò§™şŒ0
+r
+java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ8ò§™şŒ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒéÊÓ

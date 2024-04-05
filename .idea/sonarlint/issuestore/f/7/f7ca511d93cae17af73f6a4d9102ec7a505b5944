@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÂŒ†Ö/
+}
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "finalRes".(üÄ§Ÿ8ıËÊÀ/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¼ˆÒ¯8œ•½À/
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÂŒ†Ö/

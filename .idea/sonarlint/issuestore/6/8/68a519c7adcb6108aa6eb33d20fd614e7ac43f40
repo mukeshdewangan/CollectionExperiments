@@ -1,0 +1,6 @@
+
+K
+java:S1068".Remove this unused "totalTeams" private field.(ğ°ì¼8™èß‹©/
+M
+java:S1068"0Remove this unused "totalMembers" private field.(™ï÷Ö8™èß‹©/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÔÛÌùÿÿÿÿ

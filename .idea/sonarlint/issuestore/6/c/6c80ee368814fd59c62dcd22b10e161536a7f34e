@@ -1,0 +1,385 @@
+
+t
+java:S1192"RDefine a constant instead of duplicating this literal "eeaccountlabelkey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÖñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "source_dockey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÖñíÄ«1
+x
+java:S1192"VDefine a constant instead of duplicating this literal "projectcontractlineid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÖñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "retainagebalance" 3 times.(ÃàÑ’ûÿÿÿÿ8ÖñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "taskname" 3 times.(ÃàÑ’ûÿÿÿÿ8ÖñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "discountpercent" 3 times.(ÃàÑ’ûÿÿÿÿ8ÖñíÄ«1
+y
+java:S1192"WDefine a constant instead of duplicating this literal "linelevelsimpletaxtype" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "renewalmacro" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "itemdesc" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "geninvoicelinekey" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "state" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "draftchangebaseprice" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "taskid" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "itemname" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+~
+java:S1192"\Define a constant instead of duplicating this literal "billablecontractschentrykey" 3 times.(ÃàÑ’ûÿÿÿÿ8×ñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "qty_remaining" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "whenmodified" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "vendordimkey" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "projectkey" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "btoshiptocontactname" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "addedbychange" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "amountretained" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "employeeid" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "uivalue" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "balanceremaining" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+y
+java:S1192"WDefine a constant instead of duplicating this literal "projectcontractlinekey" 3 times.(ÃàÑ’ûÿÿÿÿ8ØñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "docparid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+{
+java:S1192"YDefine a constant instead of duplicating this literal "postedchangeextbaseprice" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "currency" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "termperiod" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "sc_installpricing" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "conversiontype" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "quantityallocated" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "revrectemplate" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "btoshiptokey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "dochdrno" 3 times.(ÃàÑ’ûÿÿÿÿ8ÙñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "pcblexternalrefno" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "locationkey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "source_doclinekey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "eeaccountlabel" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "vendorid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "taxableamount" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "shippeddate" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "contractlinevalue" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "classid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "locationid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÚñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "recurdocid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "taxvaloverride" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "sc_startdate" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "adjdocentrykey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "donotshipbeforedate" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "recurcontractid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "retainagetobill" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+y
+java:S1192"WDefine a constant instead of duplicating this literal "total_amount_converted" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "itemaliasid" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "postedqtychanges" 3 times.(ÃàÑ’ûÿÿÿÿ8ÛñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "relateddoclinekey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "trx_linetotal" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "revrectemplatekey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "createdby" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "storedmaterials" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "timetypekey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "sc_extendlineperiod" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "billableprentrykey" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "multiplier" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "sc_revrectemplate" 3 times.(ÃàÑ’ûÿÿÿÿ8ÜñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "renewalmacrokey" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "billableglentrykey" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "auwhencreated" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "cancelafterdate" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "bundlenumber" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "departmentname" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "customerid" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+y
+java:S1192"WDefine a constant instead of duplicating this literal "percentcompletedtodate" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "taxabsval" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "sc_createrecursched" 3 times.(ÃàÑ’ûÿÿÿÿ8İñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "vendorname" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "price_converted" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "revisedunitvalue" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "itemid" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+z
+java:S1192"XDefine a constant instead of duplicating this literal "projectcontractlinename" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "donotshipafterdate" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "customername" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "timetypename" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "taskkey" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "draftchangeqty" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "billable" 3 times.(ÃàÑ’ûÿÿÿÿ8ŞñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "schedulename" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "trx_amountretained" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "dochdrid" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "needbydate" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "scheduleid" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "projectcontractkey" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+t
+java:S1192"RDefine a constant instead of duplicating this literal "projectcontractid" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "employeedimkey" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "uiqty" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+{
+java:S1192"YDefine a constant instead of duplicating this literal "quantityreservedwhenopen" 3 times.(ÃàÑ’ûÿÿÿÿ8ßñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "discount" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "revisedvalue" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "shiptokey" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "timenotes" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "price" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "retailprice" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "trx_revisedvalue" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "revisedprice" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "projectname" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "revisedqty" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "sc_revrecenddate" 3 times.(ÃàÑ’ûÿÿÿÿ8àñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "draftchangeunitqty" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "isretainagerelease" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "trx_price" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "projectdimkey" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "customerdimkey" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+x
+java:S1192"VDefine a constant instead of duplicating this literal "datepickticketprinted" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "employeename" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "status" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "pcbldescription" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "trx_value" 3 times.(ÃàÑ’ûÿÿÿÿ8áñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "locationname" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "deptkey" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "exchratedate" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "whencreated" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+y
+java:S1192"WDefine a constant instead of duplicating this literal "total_amount_remaining" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "projectid" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "sc_existingsched" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "prorateprice" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "trx_revisedprice" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "line_no" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "relateddockey" 3 times.(ÃàÑ’ûÿÿÿÿ8âñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "discount_memo" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "classname" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "sc_revrecstartdate" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+x
+java:S1192"VDefine a constant instead of duplicating this literal "allocreserveisenabled" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "revrecenddate" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "billabletimeentrykey" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "itemglgroup" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "recordno" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "projectcontractname" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "completedthisperiod" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "source_docid" 3 times.(ÃàÑ’ûÿÿÿÿ8ãñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "exchrate" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "qty_converted" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "billingtemplatekey" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "revisedunitprice" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "retainagepercentage" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "priorapplicationamt" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "percentval" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+
+java:S1192"_Define a constant instead of duplicating this literal "billablecontractusagebillingid" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+{
+java:S1192"YDefine a constant instead of duplicating this literal "previousretainagebalance" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "adjdochdrkey" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "quantityreserved" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "modifiedby" 3 times.(ÃàÑ’ûÿÿÿÿ8äñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "recurdocentrykey" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "shipby" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "billingtemplate" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "pricecalcmemo" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "recurdocname" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "classdimkey" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "itemterm" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "revisedunitqty" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+|
+java:S1192"ZDefine a constant instead of duplicating this literal "quantityallocatedwhenopen" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+p
+java:S1192"NDefine a constant instead of duplicating this literal "trx_taxabsval" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "totalcompletedtodate" 3 times.(ÃàÑ’ûÿÿÿÿ8åñíÄ«1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "linetotal" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "exchratetype" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "postedchangeextprice" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "total" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "billed" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "cost_method" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "revrecstartdate" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "deferrevenue" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "billabledocentrykey" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "quantity" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "draftchangeprice" 3 times.(ÃàÑ’ûÿÿÿÿ8æñíÄ«1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "departmentid" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "basecurr" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "uiprice" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+s
+java:S1192"QDefine a constant instead of duplicating this literal "relateddoclineno" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "overridetax" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "pcblbillingtype" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "sc_revrectemplatekey" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "extended_description" 3 times.(ÃàÑ’ûÿÿÿÿ8çñíÄ«1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥´îÿÿÿÿÿÿ8èñíÄ«1
+H
+java:S2160"+Override the "equals" method in this class.(ÈáşÒ8ññíÄ«1
+X	java:S125"<This block of commented-out lines of code should be removed.(Èö§š8óñíÄ«1
+d
+java:S1854""GRemove this useless assignment to local variable "notInColumnMetadata".(ÎêŒ˜8í¿îÄ«1
+h
+java:S1854"FRemove this useless assignment to local variable "fromColumnMetadata".(ÃàÑ’ûÿÿÿÿ8óñíÄ«1
+Y
+java:S1481"7Remove this unused "fromColumnMetadata" local variable.(ÃàÑ’ûÿÿÿÿ8ôñíÄ«1
+U
+java:S1481""8Remove this unused "notInColumnMetadata" local variable.(ÎêŒ˜8ï¿îÄ«1
+X	java:S125%"<This block of commented-out lines of code should be removed.(¦‹Ó¡8õñíÄ«1
+]	java:S125-"<This block of commented-out lines of code should be removed.(¿‹±òıÿÿÿÿ8õñíÄ«1
+L	java:S1062"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8õñíÄ«1
+X	java:S1253"<This block of commented-out lines of code should be removed.(ªİª´8õñíÄ«1
+L	java:S1064"+Replace this use of System.out by a logger.(šÄÿÚüÿÿÿÿ8öñíÄ«1
+X	java:S1255"<This block of commented-out lines of code should be removed.(® Îÿ8öñíÄ«1
+Q
+java:S1068"/Remove this unused "maxCapacity" private field.(ìûç¨ÿÿÿÿÿ8öñíÄ«1

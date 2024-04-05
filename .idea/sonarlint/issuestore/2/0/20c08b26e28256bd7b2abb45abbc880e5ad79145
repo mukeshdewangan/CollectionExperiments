@@ -1,0 +1,14 @@
+
+a
+java:S1128"DRemove this unused import 'com.fasterxml.jackson.databind.JsonNode'.(–×ª8Øâ¬¥/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¡¾Š
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒ™†Äÿÿÿÿÿ8¬ù¸¬¥/
+h
+java:S1128"KRemove this unused import 'com.fasterxml.jackson.databind.node.ObjectNode'.(ëéï½8Øâ¬¥/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¼¡éšüÿÿÿÿ8ÊğÓĞ£/
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(«úÛ€üÿÿÿÿ8‘¥½¬¥/
+X	java:S125"<This block of commented-out lines of code should be removed.(—“î¿8îö›ò£/
+]	java:S125*"<This block of commented-out lines of code should be removed.(ù‰Öøÿÿÿÿ8ÊğÓĞ£/
+]	java:S125"<This block of commented-out lines of code should be removed.(¯º”üÿÿÿÿ8ıª‘ò£/
+]	java:S1258"<This block of commented-out lines of code should be removed.(´ªõÊøÿÿÿÿ8¢¸¬¥/

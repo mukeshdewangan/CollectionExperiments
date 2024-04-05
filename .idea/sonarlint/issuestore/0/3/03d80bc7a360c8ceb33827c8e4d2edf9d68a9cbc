@@ -1,0 +1,15 @@
+
+[
+java:S4973("9Use the "equals" method if value comparison was intended.(é¥©äúÿÿÿÿ8²·Ò/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(Ç¤‰É8Ú“©»/
+Œ
+java:S2234	"jParameters to isomorphicStringInternal have the same names but not the same order as the method arguments.(Ÿ«©øùÿÿÿÿ8ùû¡¼/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(¦…Î‘8Ôı§»/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(´‘ĞÁùÿÿÿÿ8«¥¨»/
+[
+java:S4973("9Use the "equals" method if value comparison was intended.(é¥©äúÿÿÿÿ8²·Ò/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(”’¦åşÿÿÿÿ8£¼/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(î“ùúÿÿÿÿ8¿£§»/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(¨©Øğÿÿÿÿÿ8Á°¥»/

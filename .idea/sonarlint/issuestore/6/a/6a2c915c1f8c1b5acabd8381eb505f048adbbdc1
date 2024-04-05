@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ²êˆ8ÁÛÆ™³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥‡¿×ÿÿÿÿÿ8ôı˜³/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ª‡·™³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡ıªòşÿÿÿÿ8…ñ˜™³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚšÊøÿÿÿÿ8ôı˜³/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È¤Û´8”¥ÿ˜³/
+D
+java:S1659""Declare "high" on a separate line.(œÃ¡æÿÿÿÿÿ8êÄê˜³/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(èÜìÚ8ôı˜³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“±¿Òøÿÿÿÿ8ôı˜³/

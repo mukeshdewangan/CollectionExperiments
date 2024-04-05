@@ -1,0 +1,74 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‡İŞûÿÿÿÿ8×¿îÙó0
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "state".(½ï½÷şÿÿÿÿ8×¿îÙó0
+y
+java:S1488$"\Immediately return this expression instead of assigning it to the temporary variable "node".(´»¨´8×¿îÙó0
+
+java:S1488."]Immediately return this expression instead of assigning it to the temporary variable "state".(ºû–Ñÿÿÿÿÿ8×¿îÙó0
+u
+java:S1104"SMake member1 a static final constant or non-public and provide accessors if needed.(àäŸªûÿÿÿÿ8×¿îÙó0
+p
+java:S1104"SMake member2 a static final constant or non-public and provide accessors if needed.(ˆÍÎ8×¿îÙó0
+p
+java:S1104"TMake jsonNode a static final constant or non-public and provide accessors if needed.(¯ñ{8×¿îÙó0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àş”8Ø¿îÙó0
+n
+java:S3655²"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(»Ç÷¾8İ¿îÙó0
+y
+java:S3008"WRename this field "ElementCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙµŠ¦ıÿÿÿÿ8İ¿îÙó0
+L
+java:S1197"*Move the array designators [] to the type.(ç‡İŞûÿÿÿÿ8æ¿îÙó0
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(‡³°üÿÿÿÿ8æ¿îÙó0
+]	java:S125"<This block of commented-out lines of code should be removed.(½ï½÷şÿÿÿÿ8æ¿îÙó0
+_
+java:S1854 "=Remove this useless assignment to local variable "returnStr".(¨Âú”ÿÿÿÿÿ8æ¿îÙó0
+P
+java:S1481 ".Remove this unused "returnStr" local variable.(¨Âú”ÿÿÿÿÿ8ç¿îÙó0
+W	java:S125!"<This block of commented-out lines of code should be removed.(´‰c8ç¿îÙó0
+]	java:S125&"<This block of commented-out lines of code should be removed.(·çƒşÿÿÿÿÿ8ç¿îÙó0
+X	java:S125-"<This block of commented-out lines of code should be removed.(¢í„8ç¿îÙó0
+o	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Œ®àùÿÿÿÿ8ç¿îÙó0
+[
+java:S1854g"9Remove this useless assignment to local variable "node2".(Åè®¢ıÿÿÿÿ8ç¿îÙó0
+V
+java:S1854f"9Remove this useless assignment to local variable "node1".(É«ˆú8ç¿îÙó0
+V
+java:S1854d"9Remove this useless assignment to local variable "node2".(¹ÑØ8ç¿îÙó0
+V
+java:S1854c"9Remove this useless assignment to local variable "node1".(„ÃÁÌ8ç¿îÙó0
+
+java:S11302"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¬Œ®àùÿÿÿÿ8¹úüÙó0
+M
+java:S11722"+Remove this unused method parameter "args".(¬Œ®àùÿÿÿÿ8ç¿îÙó0
+]	java:S1254"<This block of commented-out lines of code should be removed.(Ğïªİÿÿÿÿÿ8è¿îÙó0
+]	java:S125P"<This block of commented-out lines of code should be removed.(Êùƒåıÿÿÿÿ8è¿îÙó0
+L	java:S106R"+Replace this use of System.out by a logger.(Å¼Î¢úÿÿÿÿ8è¿îÙó0
+G	java:S106T"+Replace this use of System.out by a logger.(‚À’«8è¿îÙó0
+W	java:S125i"<This block of commented-out lines of code should be removed.(§şâp8é¿îÙó0
+F	java:S106v"+Replace this use of System.out by a logger.(Á–c8ê¿îÙó0
+G	java:S106x"+Replace this use of System.out by a logger.(ğ‡Íå8ê¿îÙó0
+]	java:S125"<This block of commented-out lines of code should be removed.(¯æÆ˜øÿÿÿÿ8ê¿îÙó0
+Y	java:S125‡"<This block of commented-out lines of code should be removed.(¥ıõñ8ê¿îÙó0
+^	java:S125‰"<This block of commented-out lines of code should be removed.(éşÿùûÿÿÿÿ8ë¿îÙó0
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(ˆŸò¬8ÈÄğÙó0
+M	java:S106“"+Replace this use of System.out by a logger.(¤ØÇİøÿÿÿÿ8ì¿îÙó0
+^	java:S125"<This block of commented-out lines of code should be removed.(Å‡×Óøÿÿÿÿ8ì¿îÙó0
+^	java:S125‘"<This block of commented-out lines of code should be removed.(Ù¹Ïãıÿÿÿÿ8ì¿îÙó0
+k	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÌ½™8ì¿îÙó0
+I
+java:S1172–"+Remove this unused method parameter "args".(âÌ½™8ì¿îÙó0
+^	java:S125—"<This block of commented-out lines of code should be removed.(Ë”Ãşÿÿÿÿ8ì¿îÙó0
+M	java:S106«"+Replace this use of System.out by a logger.(èşëğüÿÿÿÿ8ì¿îÙó0
+M	java:S106¯"+Replace this use of System.out by a logger.(÷ÆŞ•ÿÿÿÿÿ8í¿îÙó0
+M	java:S106³"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8í¿îÙó0
+^	java:S125¸"<This block of commented-out lines of code should be removed.(¿ïâöıÿÿÿÿ8í¿îÙó0
+H	java:S106º"+Replace this use of System.out by a logger.(¯€ĞÎ8í¿îÙó0
+M	java:S106¼"+Replace this use of System.err by a logger.(§­›úÿÿÿÿ8í¿îÙó0
+U
+java:S1144"8Remove this unused private "randomMandrillState" method.(µİ÷‹8î¿îÙó0
+O
+java:S1144"3Remove this unused private "getStateString" method.(—İ‘ 8î¿îÙó0
+M
+java:S1144,"0Remove this unused private "getMandrill" method.(ï²­í8î¿îÙó0
