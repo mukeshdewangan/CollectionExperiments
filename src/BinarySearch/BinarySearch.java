@@ -13,17 +13,20 @@ public class BinarySearch {
         // 9 - tab
         // 10 - \n - new line
         // 13 - \r - carriage return
+        int[] arr2 = {3,6,9,12,15,16};
         int[] intArr = {65, 32, 67,98, 13, 78,102, 9,69, 10};
 
-        char[] charArr = new char[intArr.length];
-        for (int i = 0; i < charArr.length; i++) {
-            char c = (char) (intArr[i]);
-            charArr[i] = c;
-        }
+        System.out.println( searchCompetitive(arr2, 20));
 
-        String str = new String(charArr) ;
-        checkWhitespaceInString(str);
-        containsWhitespace(str);
+//        char[] charArr = new char[intArr.length];
+//        for (int i = 0; i < charArr.length; i++) {
+//            char c = (char) (intArr[i]);
+//            charArr[i] = c;
+//        }
+//
+//        String str = new String(charArr) ;
+//        checkWhitespaceInString(str);
+//        containsWhitespace(str);
     }
 
     private  static boolean containsWhitespace(String str){
@@ -71,6 +74,13 @@ public class BinarySearch {
     }
 
 
+    /**
+     * Searches element equal to or greater than search element, val
+     * @param arr
+     * @param val
+     * @return
+     */
+
     private static int searchCompetitive(int[] arr, int val){
         int min = 0 ; int max = arr.length-1;
 
@@ -83,6 +93,24 @@ public class BinarySearch {
         }
         if(arr[min] < val) return -1;
         return min;
+    }
+
+    private static int simpleBinarySearch(int[] arr , int num){
+        int start = 0;
+        int end = arr.length-1;
+
+        while(start <= end){
+            int mid = (end-start)/2 + start;
+            if(num == arr[mid])
+                return mid;
+            else if(arr[mid] > num){
+                end = mid-1;
+            }
+            else {
+                start = mid+1;
+            }
+        }
+        return -1;
     }
     public static int searchItemJustGreater(int[] arr, int target){
         int result =-1;
@@ -99,6 +127,35 @@ public class BinarySearch {
             }
         }
         return result;
+    }
+
+    // Binary search
+    private long greaterThanOrEqualTo(long[] prefixSum, long num){
+        int start = 0;
+        int end = prefixSum.length-1;
+        int result = end;
+        // 3, 8 ,11, 13
+        // start = 0 end = 3 , num =  6  , mid = 1
+
+        boolean found = false;
+        while(start<end){
+            int mid = start + (end-start)/2;
+            if(prefixSum[mid] == num){
+                result = mid;
+                found = true;
+                break;
+            }
+            if(num < prefixSum[mid]){
+                result = end;
+                end = mid-1;
+            }
+            else {
+                start = mid+1;
+            }
+        }
+        if(!found && result == 0) result = start+1;
+        //result
+        return prefixSum[result];
     }
 
 }
