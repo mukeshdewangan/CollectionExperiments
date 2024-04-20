@@ -1,0 +1,24 @@
+{
+  "condition": null,
+  "innerRules": [
+    {
+      "condition": {
+        "field": "field1",
+        "operator": "GREATER_THAN",
+        "value": "10"
+      },
+      "innerRules": null,
+      "operator": null
+    },
+    {
+      "condition": {
+        "field": "field2",
+        "operator": "CONTAINS",
+        "value": "abc"
+      },
+      "innerRules": null,
+      "operator": null
+    }
+  ],
+  "operator": "AND"
+}
