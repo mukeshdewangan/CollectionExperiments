@@ -27,7 +27,7 @@ public class KthSmallestInSortedMatrix {
             }
         }
         if(heap.getLength() == k) {
-            if (heap.getLength() > 0){
+            while (heap.getLength() > 0){
 
                 //System.out.println(heap.getNext());
                 //heap.remove();
