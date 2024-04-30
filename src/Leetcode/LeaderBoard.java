@@ -3,7 +3,7 @@ package Leetcode;
 import java.util.*;
 
 public class LeaderBoard {
-    private final Map<Integer, List<String>> scopeUsersMap = new TreeMap<>(Comparator.reverseOrder());
+    private final Map<Integer, List<String>> scopeMap = new TreeMap<>(Comparator.reverseOrder());
     private final Map<String, Integer> userScoreMap = new HashMap<>();
 
     public static void main(String[] args) {
@@ -21,20 +21,11 @@ public class LeaderBoard {
 
         List<String> list = lb.getTop(1);
         list.forEach(System.out::println);
-//        lb.incrementViews(third);
-//        lb.incrementViews(third);
-//        lb.incrementViews(third);
-//        lb.incrementViews(third);
-//        lb.incrementViews(third);
 
         //
         lb.decrementViews(second);
         lb.decrementViews(second);
         lb.decrementViews(second);
-        //lb.removeUser(second);
-
-        //lb.removeUser(third);
-        //lb.removeUser(first);
 
         list = lb.getTop(1);
         list.forEach(System.out::println);
@@ -60,16 +51,16 @@ public class LeaderBoard {
     private void addUser(String userId, Integer newScore){
         removeUser(userId);
         userScoreMap.put(userId, newScore);
-        scopeUsersMap.computeIfAbsent(newScore, k-> new ArrayList<>()).add(userId);
+        scopeMap.computeIfAbsent(newScore, k-> new ArrayList<>()).add(userId);
     }
 
     public void removeUser(String userId){
         if(userScoreMap.containsKey(userId)){
             Integer score = userScoreMap.get(userId);
-            List<String> strings = scopeUsersMap.get(score);
+            List<String> strings = scopeMap.get(score);
             strings.remove(userId);
             if(strings.isEmpty()){
-                scopeUsersMap.remove(score);
+                scopeMap.remove(score);
             }
         }
     }
@@ -77,7 +68,7 @@ public class LeaderBoard {
     public List<String> getTop(int k){
         int remainingSize = k;
         List<String> topList = new ArrayList<>();
-        for (Map.Entry<Integer, List<String>> entry : scopeUsersMap.entrySet()) {
+        for (Map.Entry<Integer, List<String>> entry :scopeMap.entrySet()) {
             if (remainingSize > entry.getValue().size()){
                 remainingSize -=entry.getValue().size();
                 topList.addAll(entry.getValue());
